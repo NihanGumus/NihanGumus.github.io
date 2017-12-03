@@ -1,2 +1,2 @@
-# NihanGumus.github.io
-Semantic Document Classification
+# Semantic Document Classification
+Nihan Gümüş - Merve Uğur - Mustafa Güngör
